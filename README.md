@@ -1,2 +1,2 @@
-# C++ Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Leangchhay1523/C-Notebook.git/HEAD) .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/Leangchhay1523/C-Notebook.git/HEAD
+# C++ Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Leangchhay1523/C-Notebook.git/HEAD) 
+.. image:: https://mybinder.org/badge_logo.svg :target: https://mybinder.org/v2/gh/Leangchhay1523/C-Notebook.git/HEAD
